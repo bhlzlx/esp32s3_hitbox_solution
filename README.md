@@ -16,3 +16,11 @@ kusugawa's wireless joystick
 - [x] 电池显示
 - [x] 模式显示
 - [ ] 后台配置工具 (长期计划)
+
+依赖三方库请在 platformio.ini 中添加
+
+* Callback
+* ESP32-BLE-CompositeHID
+* NimBLE-Arduino
+* U8g2
+
